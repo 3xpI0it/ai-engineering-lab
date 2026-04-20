@@ -1,6 +1,14 @@
 # Experiments
 
-This section contains small tests and experimental work.
+This section contains small-scale experiments and quick implementations to test ideas and understand concepts.
+
+## Purpose
+
+- Test new ideas quickly  
+- Validate concepts before building full projects  
+- Learn through trial and error  
+
+---
 
 ## Includes
 
@@ -8,6 +16,17 @@ This section contains small tests and experimental work.
 - Concept testing  
 - Quick implementations  
 
-## Goal
+---
 
-To explore ideas and learn through experimentation.
+## Approach
+
+Experiments are:
+- lightweight  
+- exploratory  
+- not production-level  
+
+---
+
+## Note
+
+These are stepping stones toward building larger, structured projects.
