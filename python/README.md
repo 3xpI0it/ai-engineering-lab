@@ -12,10 +12,10 @@ This section contains core Python learning and scripts used across AI projects.
 
 ## Structure
 
-### basics/
+### basics
 Fundamental concepts and syntax
 
-### scripts/
+### scripts
 Utility scripts and small programs
 
 ---
