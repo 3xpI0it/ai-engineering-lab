@@ -12,13 +12,13 @@ This section contains structured learning notes for AI and related topics.
 
 ## Sections
 
-### fundamentals/
+### fundamentals
 Core concepts of AI and programming basics
 
-### machine-learning/
+### machine-learning
 Supervised, unsupervised learning, and models
 
-### deep-learning/
+### deep-learning
 Neural networks and advanced concepts
 
 ---
