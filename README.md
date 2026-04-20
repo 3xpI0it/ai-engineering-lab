@@ -2,7 +2,7 @@
 
 This repository documents my journey in learning and building practical AI systems, focusing on real-world applications rather than theoretical concepts.
 
-## 🎯 Objective
+## Objective
 
 - Build AI-powered systems from scratch  
 - Focus on problem-solving and practical implementation  
@@ -10,29 +10,29 @@ This repository documents my journey in learning and building practical AI syste
 
 ---
 
-## 📂 Structure
+## Structure
 
-### 🔬 experiments/
+### experiments
 Small tests and quick implementations to explore ideas and concepts.
 
-### 📘 notes/
+### notes
 Structured learning notes covering:
 - Fundamentals
 - Machine Learning
 - Deep Learning
 
-### 🚀 projects/
+### projects
 Main AI projects built with real-world use cases.
 
-### 🐍 python/
+### python
 Core Python learning, scripts, and fundamentals used across projects.
 
-### 🛠 tools/
+### tools
 Utilities, helper scripts, and tools used during development.
 
 ---
 
-## 🔥 Current Focus
+## Current Focus
 
 - Building **Vira — AI Accountability Assistant**
 - Learning AI through project-based approach
@@ -48,6 +48,6 @@ This repository reflects continuous learning through hands-on implementation.
 
 ---
 
-## 📌 Status
+## Status
 
 Active and evolving.
